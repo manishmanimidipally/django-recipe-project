@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing : border-box;
+}
+.navbar{
+    height:10vh;
+    width:100vw;
+}
+h1{
+    color:red;
+    text-align:center;
+}
+h3,h4{
+    margin-left: 5px;
+    margin-right:5px;
+    text-align: center;
+}
+.navbar{
+    background-color:black;
+}
+a{
+    padding-left:590px;
+}
+.img{
+    padding-left:500px;
+}
